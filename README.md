@@ -1,5 +1,8 @@
 # Movie Gross Prediction using Degree Centralities
 
+For using data, drive mount on the colab is used. If the final data which preprocessed would be used, preprocessing part can be passed.
+
+
 # Introduction
 Predicting the gross of a movie is an important task in the film industry. In this project, we aim to predict the gross of movies by using graph centrality measures and node features that represent the actors in the movie and their relationship with the movie.
 
