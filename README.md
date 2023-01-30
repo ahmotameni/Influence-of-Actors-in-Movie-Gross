@@ -9,8 +9,13 @@ If you want to run the code, you have to download the dataset [Here](https://www
 ## Methodology
 To achieve the goal of this project, a network was built using the movie dataset from Kaggle. The actors were treated as nodes, and connections were established between actors who appeared in the same movie. The centrality measures were then calculated for each actor to assess their importance in the network. The three centrality measures used were degree centrality, closeness centrality, and betweenness centrality. Finally, the relationship between these centrality measures and the movie's gross was analyzed to determine if there is a correlation between the centrality measures and the success of a movie in terms of its gross.
 
+## Experiments
+You can see the step-by-step process in `Analysing_actors_effect_on_revenue.ipynb`.
+
 ## References
 We have used [this](https://towardsdatascience.com/can-network-analysis-work-for-predicting-success-of-box-office-revenue-c8370c8427f9) research as the baseline of our project.
 
 ## Acknowledge
 We would like to acknowledge any contributing authors or sources that helped in the creation of this project.
+
+The project is for the Learning from Networks course uncder the supervision of Professor Fabio Vandin 22/23.
